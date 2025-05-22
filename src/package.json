@@ -1,0 +1,8 @@
+{
+  "name": "jogo-da-memoria",
+  "version": "1.0.0",
+  "main": "engine.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
