@@ -6,7 +6,12 @@ body {
   background: #fc1e8a;
   user-select: none;
 }
-
+@media screen and (max-width: 768px) {
+  body {
+    padding: 0 20px;
+  }
+  
+}
 .container {
   position: relative;
   display: flex;
